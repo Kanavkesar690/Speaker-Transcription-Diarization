@@ -1,0 +1,8 @@
+azure-functions
+requests       
+tiktoken
+azure-cognitiveservices-speech
+python-dotenv
+pyodbc
+azure-identity
+azure-storage-blob
